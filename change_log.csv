@@ -1,0 +1,6 @@
+field,rule,changes,example
+dates,parse to datetime,36000,"[{'created_at': Timestamp('2024-04-12 19:28:00'), 'check_in': Timestamp('2024-06-12 19:28:00'), 'check_out': Timestamp('2024-06-24 19:28:00'), 'review_date': NaT}]"
+nights,recalculate based on dates,11896,[12]
+price,parse and remove invalid,84,[-872.62]
+Оновлено dataset_clean.csv
+Оновлено dataset_clean.csv
